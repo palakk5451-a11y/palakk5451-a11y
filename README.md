@@ -30,7 +30,7 @@
 Results-driven 3rd-year **B.Tech (COMPUTER SCIENCE ENGINEERING)** student at **MPEC KANPUR**, graduating in 2028. I build across the stack — from training ML models to shipping full production web apps — with a focus on **Machine Learning, NLP, REST APIs, and scalable software design**.
 
 ```python
-class Abhishek Rajput:
+class Palak Tiwari:
     def __init__(self):
         self.name = "Palak Tiwari"
         self.branch = "Computer Science Engineering"
